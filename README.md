@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/kamrulsaad/Advice-Generator-App)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://kamrulsaad.github.io/Advice-Generator-App)
 
 ## My process
 
